@@ -225,6 +225,9 @@ let playbuttony9 = document.querySelector('#playbutton9')
 playbuttony9.addEventListener('click', ()=> {getSong9();});
 
 
+// let stopbutton = location.reload();
+// return false;
+
 //create function to stop the song? POtenrialy reload the page
 
 
